@@ -1,3 +1,25 @@
+<!DOCTYPE html>
+<title>Resume</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
+<script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
+<style>  
+  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:"Segoe UI",ARIAL; }
+  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; BACKGROUND:#f0f0f0; }
+  h2  { border-bottom:1px solid grey; padding:2px }
+</style>
+<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
+<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
+
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+
+<span style="float:right;padding:6px"> 
+  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+</span>
+
+# Casualwriter
+
+
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
 <span style="float:right;padding:6px"> 
@@ -25,7 +47,8 @@
 * Led team of 5 for application development
 * Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+####  SOUTH POLE(REMOTE SENSING AND GIS ANALYST, 15/02/2021 – 15/09/2022)
+
 
 * Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
 
